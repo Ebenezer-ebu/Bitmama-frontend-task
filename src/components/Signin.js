@@ -34,6 +34,7 @@ const Signin = () => {
 
   return (
     <div className="container">
+      <h1>Sign Up</h1>
       <form onSubmit={onSubmit}>
         <input
           type="text"
